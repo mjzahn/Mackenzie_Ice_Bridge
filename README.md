@@ -1,2 +1,2 @@
 # Mackenzie_Ice_Bridge
-All code associated with Zahn et al. (2025) GRL, in prep
+Repository to store code for analyses and figures associated with Zahn et al. (2026) Mackenzie River Freshwater Controls Early Sea Ice Formation in the Eastern Beaufort Sea. *Geophysical Research Letters*
